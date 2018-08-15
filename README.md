@@ -1,4 +1,4 @@
-"# CommunityDetectionFramework" 
+<h>CommunityDetectionFramework</h>
 
  - CiteseerCoraCorrelator, the correlation program and the data set of the Cora 
       and CiteSeer data sets.
